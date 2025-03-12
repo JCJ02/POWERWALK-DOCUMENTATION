@@ -1,6 +1,5 @@
 # POWER-WALK-DOCUMENTATION
-- Converting Foot Traffic into Sustainable Energy, Utilizing Piezoelectric Transducers with RFID and Data Visualization for Efficient Power Generation at Quezon City University.
-
+- **Power Walk**: Converting Foot Traffic into Sustainable Energy, Utilizing Piezoelectric Transducers with RFID and Data Visualization for Efficient Power Generation at Quezon City University.
 
 # Hardware:
 ## RFIDREADER.ino File
