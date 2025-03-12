@@ -20,7 +20,7 @@
 ![Schematic Diagram - RFID Based Charging Station in QCU](Schematic_Diagram.jpg)
 
 
-# Software
+# Software:
 ## Frontend of Power Walk Software
 - [Power Walk FE](https://github.com/JCJ02/power-walk-fe)
 
