@@ -1,4 +1,5 @@
 # POWER-WALK-DOCUMENTATION
+- Converting Foot Traffic into Sustainable Energy, Utilizing Piezoelectric Transducers with RFID and Data Visualization for Efficient Power Generation at Quezon City University.
 - 
 ## RFIDREADER.ino File
 - This Arduino code is for reading the UID (Unique Identifier) of an RFID card using an RFID-RC522 module and an Arduino Uno (or similar board). It utilizes the MFRC522 and SPI libraries to communicate with the RFID module. This is what we use to store your RFID's UID to our system.
@@ -8,5 +9,8 @@
 
 ## NODEMCU.ino File
 - [NODEMCU.ino File](https://github.com/JCJ02/power-walk-nodemcu-esp8266)
+
+## HTTP Server of the Hardware
+-[Server](https://github.com/JCJ02/power-walk-system-php)
   
 ![Schematic Diagram - RFID Based Charging Station in QCU](Schematic_Diagram.jpg)
