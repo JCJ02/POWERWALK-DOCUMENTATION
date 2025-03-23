@@ -9,7 +9,7 @@
 
 
 ## ARDUINO.ino File
-- This Arduino code is designed for an RFID-based "Free Charging Station", where students can scan their RFID cards to activate a charging session. If their RFID card is verified, the system allows them to charge their devices for 15 minutes before automatically turning off.
+- This Arduino code ([ARDUINO.ino](https://github.com/JCJ02/power-walk-arduino-uno/blob/main/ARDUINO.ino)) is designed for an RFID-based "Free Charging Station", where students can scan their RFID cards to activate a charging session. If their RFID card is verified, the system allows them to charge their devices for 15 minutes before automatically turning off.
 
 ## NODEMCU.ino File
 - [NODEMCU.ino File](https://github.com/JCJ02/power-walk-nodemcu-esp8266)
@@ -42,6 +42,9 @@
 - [Express.js](https://expressjs.com/)
 - [React Vite](https://v3.vitejs.dev/guide/)
 - [Tailwind CSS](https://tailwindcss.com/docs/installation/using-vite)
+
+## Database:
+- [MySQL/MariaDB](https://dev.mysql.com/doc/)
 
 ## Object-Relational Mapper (ORM)
 - [Prisma](https://www.prisma.io/)
