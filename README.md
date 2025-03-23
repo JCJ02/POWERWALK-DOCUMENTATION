@@ -27,23 +27,23 @@
 ## Backend of Power Walk Software
 - [Power Walk API](https://github.com/JCJ02/power-walk-api)
 
-## Technologies:
+# Technologies:
 - [Arduino IDE](https://www.arduino.cc/en/software)
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [XAMPP](https://www.apachefriends.org/download.html)
 
-## Programming Languages:
+# Programming Languages:
 - [C++](https://www.w3schools.com/cpp/cpp_intro.asp)
 - [TypeScript](https://www.typescriptlang.org/)
 - [PHP](https://www.php.net/)
 
-## Frameworks:
+# Frameworks:
 - [Node.js](https://nodejs.org/en)
 - [Express.js](https://expressjs.com/)
 - [React Vite](https://v3.vitejs.dev/guide/)
 - [Tailwind CSS](https://tailwindcss.com/docs/installation/using-vite)
 
-## Database:
+# Database:
 - [MySQL/MariaDB](https://dev.mysql.com/doc/)
 
 ## Object-Relational Mapper (ORM)
