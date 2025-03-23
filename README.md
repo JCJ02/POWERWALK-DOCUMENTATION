@@ -12,7 +12,7 @@
 - This Arduino code ([ARDUINO.ino](https://github.com/JCJ02/power-walk-arduino-uno/blob/main/ARDUINO.ino)) is designed for an RFID-based "Free Charging Station", where students can scan their RFID cards to activate a charging session. If their RFID card is verified, the system allows them to charge their devices for 15 minutes before automatically turning off.
 
 ## NODEMCU.ino File
-- [NODEMCU.ino File](https://github.com/JCJ02/power-walk-nodemcu-esp8266)
+- [NODEMCU.ino](https://github.com/JCJ02/power-walk-nodemcu-esp8266)
 
 ## HTTP Server of the Hardware
 - [Server](https://github.com/JCJ02/power-walk-system-php)
