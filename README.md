@@ -15,7 +15,7 @@
 - [NODEMCU.ino](https://github.com/JCJ02/power-walk-nodemcu-esp8266)
 
 ## HTTP Server of the Hardware
-- [Server](https://github.com/JCJ02/power-walk-system-php)
+- [PHP Server](https://github.com/JCJ02/power-walk-system-php)
 
 ![Schematic Diagram - RFID Based Charging Station in QCU](Schematic_Diagram.jpg)
 
