@@ -16,6 +16,7 @@
 
 ## HTTP Server of the Hardware
 - [PHP Server](https://github.com/JCJ02/power-walk-system-php)
+- This server.php script acts as a central data handler for a system involving battery monitoring, electricity tracking, and RFID-based access control. It receives data about battery percentage, generated, consumed electricity, and RFID card IDs. Upon receiving this information, it updates a database with the current battery status and accumulated electricity generation and consumption. Furthermore, it verifies if an RFID card is registered and records access attempts, along with the corresponding electricity consumption associated with each successful entry. The script also maintains a daily log of electricity usage and generation, providing a comprehensive overview of the system's energy dynamics and access history.
 
 ![Schematic Diagram - RFID Based Charging Station in QCU](Schematic_Diagram.jpg)
 
