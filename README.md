@@ -3,7 +3,7 @@
 
 # Project Demonstration:
 
-<video src="[https://github.com/JCJ02/POWER-WALK-DOCUMENTATION/edit/main/Power_Walk_Technology_Demo.mp4](https://github.com/JCJ02/POWER-WALK-DOCUMENTATION/blob/main/Power_Walk_Technology_Demo.mp4)" controls></video>
+<video src="https://github.com/JCJ02/POWER-WALK-DOCUMENTATION/edit/main/Power_Walk_Technology_Demo.mp4" controls></video>
 
 # Hardware:
 ## RFIDREADER.ino File
