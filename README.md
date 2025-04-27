@@ -1,9 +1,13 @@
 # POWER-WALK-DOCUMENTATION
 - **Power Walk**: Converting foot traffic into sustainable energy, utilizing piezoelectric transducers with RFID and data visualization for efficient power generation.
 
+# Project Demonstration:
+
+<video src="https://github.com/JCJ02/POWER-WALK-DOCUMENTATION/edit/main/Power_Walk_Technology_Demo.mp4" controls></video>
+
 # Hardware:
 ## RFIDREADER.ino File
-- This Arduino code ([RFIDREADER.ino](https://github.com/JCJ02/power-walk-arduino-uno/blob/main/RFIDREADER.ino)) is for reading the UID (Unique Identifier) of an RFID card using an RFID-RC522 module and an Arduino Uno (or similar board). It utilizes the MFRC522 and SPI libraries to communicate with the RFID module. This is what we use to store your RFID's UID in our system.
+- This Arduino code ([RFIDREADER.ino](https://github.com/JCJ02/power-walk-arduino-uno/blob/main/RFIDREADER.ino)) is for reading the UID (Unique Identifier) of an RFID card using an RFID-RC522 module and an Arduino Uno (or similar board). It utilizes the MFRC522 and SPI libraries to communicate with the RFID module. We use this to store your RFID's UID in our system.
 
 ![Arduino RFID](Arduino_RFID.jpg)
 
