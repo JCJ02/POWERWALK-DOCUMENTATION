@@ -1,4 +1,4 @@
-# POWER-WALK-DOCUMENTATION
+# POWER WALK DOCUMENTATION
 - **Power Walk**: Converting foot traffic into sustainable energy, utilizing piezoelectric transducers with RFID and data visualization for efficient power generation.
 
 # Project Demonstration:
