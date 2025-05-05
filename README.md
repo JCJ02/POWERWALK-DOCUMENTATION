@@ -6,13 +6,13 @@
 
 # Hardware:
 ## RFIDREADER.ino File
-- This Arduino code ([RFIDREADER.ino](https://github.com/JCJ02/power-walk-arduino-uno/blob/main/RFIDREADER.ino)) is for reading the UID (Unique Identifier) of an RFID card using an RFID-RC522 module and an Arduino Uno (or similar board). It utilizes the MFRC522 and SPI libraries to communicate with the RFID module. We use this to store your RFID's UID in our system.
+- This C++ code ([RFIDREADER.ino](https://github.com/JCJ02/power-walk-arduino-uno/blob/main/RFIDREADER.ino)) is for reading the UID (Unique Identifier) of an RFID card using an RFID-RC522 module and an Arduino Uno (or similar board). It utilizes the MFRC522 and SPI libraries to communicate with the RFID module. We use this to store your RFID's UID in our system.
 
 ![Arduino RFID](Arduino_RFID.jpg)
 
 
 ## ARDUINO.ino File
-- This Arduino code ([ARDUINO.ino](https://github.com/JCJ02/power-walk-arduino-uno/blob/main/ARDUINO.ino)) is designed for an RFID-based "Free Charging Station", where students can scan their RFID cards to activate a charging session. If their RFID card is verified, the system allows them to charge their devices for 15 minutes before automatically turning off.
+- This C++ code ([ARDUINO.ino](https://github.com/JCJ02/power-walk-arduino-uno/blob/main/ARDUINO.ino)) is designed for an RFID-based "Free Charging Station", where students can scan their RFID cards to activate a charging session. If their RFID card is verified, the system allows them to charge their devices for 15 minutes before automatically turning off.
 
 ## NODEMCU.ino File
 - [NODEMCU.ino](https://github.com/JCJ02/power-walk-nodemcu-esp8266)
