@@ -1,4 +1,4 @@
-# POWER WALK DOCUMENTATION
+# POWERWALK DOCUMENTATION
 - **POWERWALK**: Converting foot traffic into sustainable energy, utilizing piezoelectric transducers with RFID and data visualization for efficient power generation.
 
 # Project Demonstration: Watch the Power Walk Technology Demonstration Video
@@ -48,3 +48,7 @@
 
 # Database:
 - [MySQL/MariaDB](https://dev.mysql.com/doc/)
+
+# OUR AWARDS
+## Best Research Paper (Hardware Category)
+![Best Research Paper Photo](best-research-paper.jpg)
