@@ -49,6 +49,15 @@
 # Database:
 - [MySQL/MariaDB](https://dev.mysql.com/doc/)
 
-# OUR AWARDS
+<br/>
+<br/>
+<br/>
+
+# OUR RESEARCH PAPER AWARDS
 ## Best Research Paper (Hardware Category)
 ![Best Research Paper Photo](best-research-paper.jpg)
+
+<br/>
+
+## Best Research Presenter
+![Best Research Presenter](best-research-presenter.jpg)
