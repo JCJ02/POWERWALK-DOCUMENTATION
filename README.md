@@ -4,7 +4,7 @@
 # Project Demonstration: Watch the Power Walk Technology Demonstration Video
 [![Watch the Power Walk Technology Demonstration Video](https://img.youtube.com/vi/HKBozvnk5LI/0.jpg)](https://www.youtube.com/watch?v=HKBozvnk5LI)
 
-# Hardware:
+# Hardware Source Code:
 ## RFIDREADER.ino File
 - This C++ code ([RFIDREADER.ino](https://github.com/JCJ02/power-walk-arduino-uno/blob/main/RFIDREADER.ino)) is for reading the UID (Unique Identifier) of an RFID card using an RFID-RC522 module and an Arduino Uno (or similar board). It utilizes the MFRC522 and SPI libraries to communicate with the RFID module. We use this to store your RFID's UID in our system.
 
@@ -23,11 +23,11 @@
 ![Schematic Diagram - RFID Based Charging Station in QCU](Schematic_Diagram.jpg)
 
 
-# Software:
-## Frontend of Power Walk Software
+# Software Source Code:
+## Frontend of POWERWALK Software
 - [Power Walk FE](https://github.com/JCJ02/power-walk-fe)
 
-## Backend of Power Walk Software
+## Backend of POWERWALK Software
 - [Power Walk API](https://github.com/JCJ02/power-walk-api)
 
 # Technologies:
@@ -41,13 +41,10 @@
 - [PHP](https://www.php.net/)
 
 # Frameworks:
-- [Node.js](https://nodejs.org/en)
-- [Express.js](https://expressjs.com/)
+- [NodeJS](https://nodejs.org/en)
+- [ExpressJS](https://expressjs.com/)
 - [React Vite](https://v3.vitejs.dev/guide/)
 - [Tailwind CSS](https://tailwindcss.com/docs/installation/using-vite)
 
 # Database:
 - [MySQL/MariaDB](https://dev.mysql.com/doc/)
-
-## Object-Relational Mapper (ORM)
-- [Prisma](https://www.prisma.io/)
