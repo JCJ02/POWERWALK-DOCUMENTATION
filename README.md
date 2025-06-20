@@ -49,6 +49,9 @@
 # Database:
 - [MySQL/MariaDB](https://dev.mysql.com/doc/)
 
+# 2D Image of POWERWALK Charging Station
+![Best Research Paper Photo](best-research-paper.jpg)
+
 <br/>
 <br/>
 <br/>
