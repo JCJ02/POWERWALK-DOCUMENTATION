@@ -50,7 +50,11 @@
 - [MySQL/MariaDB](https://dev.mysql.com/doc/)
 
 # 2D Image of POWERWALK Charging Station
-![Best Research Paper Photo](best-research-paper.jpg)
+![Front View and Piezoelectric Tiles](front-view-and-tiles.png)
+![Back View](back-view.png)
+![Left and Right View](left-and-right-view.png)
+![Mini Box](mini-box-view.png)
+![RFID Scanner](RFID-scanner.png)
 
 <br/>
 <br/>
