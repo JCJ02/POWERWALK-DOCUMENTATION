@@ -4,10 +4,10 @@
 # Project Demonstration: Watch the Power Walk Technology Demonstration Video
 [![Watch the Power Walk Technology Demonstration Video](https://img.youtube.com/vi/HKBozvnk5LI/0.jpg)](https://www.youtube.com/watch?v=HKBozvnk5LI)
 
-#POWERWALK User's Manual
+# POWERWALK User's Manual
 [DOWNLOAD LINK](POWERWALK_User_Manual_2025.pdf)
 
-#POWERWALK Research Paper
+# POWERWALK Research Paper
 [DOWNLOAD LINK](POWERWALK_RESEARCH_PAPER_2025.pdf)
 
 # Hardware Source Code:
